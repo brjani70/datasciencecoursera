@@ -6,7 +6,7 @@ The run_analysis.R file does the following 5 steps as outlined by the course pro
 * The mean and standard deviation measure columns are extracted from the whole dataframe. After extracting these columns, they are given the correct names as per the 'features' text file.
 * Activity data is represented by column values 1:6, so I take the activity names and IDs from the 'activity_labels' text file and they are substituted in the dataframe.
 * On the whole dataframe, undescriptive/abbreviated column names are replaced and corrected.
-* I generate A final dataframe with all the averages for each subject and activity type, named 'averages_data' - a text file.
+* I generate a final dataframe with all the averages for each subject and activity type, named 'averages_data' - a text file.
 
 # Variables
 
